@@ -1,4 +1,5 @@
 **Rock Paper Scissors Game**
+
 This is a simple web-based Rock Paper Scissors game implemented with HTML, CSS, and JavaScript.
 
 **Table of Contents**
