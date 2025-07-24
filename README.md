@@ -1,49 +1,44 @@
-Overview
-A simple Rock Paper Scissors game built with HTML, CSS, and JavaScript. Play against the computer and track your score!
+**Rock Paper Scissors Game**
+This is a simple web-based Rock Paper Scissors game implemented with HTML, CSS, and JavaScript.
 
+**Table of Contents**
 Features
-Classic Rock Paper Scissors gameplay
-
-Score tracking for both player and computer
-
-Responsive design
-
-Clean, minimalist UI
 
 How to Play
-Click on Rock, Paper, or Scissors to make your selection
 
-Click the "Pick your move" button to play against the computer
+Files
 
-The winner gets a point added to their score
+Setup
 
-Play as many rounds as you like!
+**Features**
+Play Rock Paper Scissors against the computer.
 
-Installation
-No installation required! Just open one.html in your web browser.
+Keeps track of your score and the computer's score.
 
-Technologies Used
-HTML5
+Simple and intuitive user interface.
 
-CSS3
+**How to Play**
+1)Open the one.html file in your web browser.
 
-JavaScript (ES6)
+2)Click on "ROCK", "PAPER", or "SCISSOR" to make your choice.
 
-Code Structure
-one.html: Main HTML file
+3)Click the "Pick your move" button to play a round against the computer.
 
-one.css: Stylesheet
+4)The scores will update based on the outcome of the round.
 
-one.js: Game logic
+**Files**
+one.html: The main HTML file that structures the game's user interface.
 
-Future Improvements
-Add animations for selections
+one.css: Contains the CSS styles to make the game visually appealing.
 
-Implement a best-of-5 mode
-
-Add localStorage to save high scores
-
-Mobile-friendly enhancements
+one.js: Implements the game's logic, including handling user input, computer choices, and score updates.
 
 
+**Setup**
+To run this game locally:
 
+1)Save all three files (one.html, one.css, and one.js) in the same directory.
+
+2)Ensure that the piyushopfat.avif image is also in the same directory, or update the background property in one.css to a valid image path.
+
+3)Open one.html in your preferred web browser.
